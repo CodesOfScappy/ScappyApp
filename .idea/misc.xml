@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/CodeO/AndroidStudioProjects/ScappyMessanger/app/src/main/res/drawable/linear_bg.xml" value="0.2" />
+        <entry key="..\:/Users/CodeO/AndroidStudioProjects/ScappyMessanger/app/src/main/res/drawable/testing.xml" value="0.2035" />
+        <entry key="..\:/Users/CodeO/AndroidStudioProjects/ScappyMessanger/app/src/main/res/layout/activity_settings.xml" value="0.25" />
         <entry key="..\:/Users/Kelle/AndroidStudioProjects/ScappyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Kelle/AndroidStudioProjects/ScappyApp/app/src/main/res/drawable/about.xml" value="0.1735" />
         <entry key="..\:/Users/Kelle/AndroidStudioProjects/ScappyApp/app/src/main/res/drawable/avatar.xml" value="0.2685" />
